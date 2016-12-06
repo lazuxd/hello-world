@@ -1,3 +1,6 @@
+a
+b
+c
 testing git commands
 1
 2
