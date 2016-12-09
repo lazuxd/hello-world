@@ -6,4 +6,4 @@ testing git commands
 2
 3
 4
-
+some text
